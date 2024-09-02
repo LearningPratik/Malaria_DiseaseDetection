@@ -1,0 +1,6 @@
+outs:
+- md5: 147ba3f7c899bb5f634501559116f714.dir
+  size: 96320371
+  nfiles: 8000
+  hash: md5
+  path: cell_data
