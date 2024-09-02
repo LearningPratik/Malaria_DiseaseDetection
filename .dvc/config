@@ -1,0 +1,2 @@
+['remote "local_registry"']
+    url = ../../../../dvc_data_registry
