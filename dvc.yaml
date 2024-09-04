@@ -1,0 +1,10 @@
+stages:
+
+  split_data:
+    cmd: python src/data/data_split.py
+    deps:
+      - src/data/data_split.py
+    outs:
+      - data/data_splits/train.csv
+      - data/data_splits/validation.csv
+      - data/data_splits/test.csv

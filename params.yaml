@@ -1,0 +1,3 @@
+data_unzip:
+  source: data/zipped_data/cell_data.zip
+  destination: data/
